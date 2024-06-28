@@ -1,0 +1,54 @@
+#! /bin/sh
+
+# Sxhkd
+sxhkd&
+
+# Default cursor
+xsetroot -cursor_name left_ptr
+
+# Workspaces
+bspc monitor -d I II III IV V  
+
+# Window
+bspc config border_width         2
+bspc config top_padding         45
+
+bspc config window_gap          12
+
+bspc config split_ratio          0.5
+bspc config borderless_monocle   true
+bspc config gapless_monocle      false
+
+bspc config focus_follows_pointer  true
+
+# Set the border colors
+bspc config active_border_color   "#000000"
+bspc config focused_border_color  "#858585"
+bspc config presel_border_color   "#efe383"
+
+# Fix android studio bug
+bspc rule -a android-studio state=floating border=off follow=on
+
+
+# Assign applications to workspaces
+bspc rule -a discord desktop='^9'
+bspc rule -a slack desktop='^9'
+bspc rule -a Pavucontrol desktop='^10'
+bspc rule -a easyeffects desktop='^10'
+bspc rule -a ncmpcpp desktop='^3'
+bspc rule -a btm desktop='^11'
+bspc rule -a Deluge desktop='^12'
+
+
+# Autostart programs
+dunst&
+picom&
+bash .config/polybar/launch.sh --forest &
+#polybar&
+feh --bg-scale Downloads/wallpaper.jpg&
+
+# Kill previous xob instances
+pkill xob
+
+# Volume bar
+tail -f xobvolpipe | xob -s volume &
