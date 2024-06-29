@@ -1,0 +1,63 @@
+2024-06-21 13:36:42.381 [info] Log level: Info
+2024-06-21 13:36:42.381 [info] Validating found git in: "git"
+2024-06-21 13:36:42.381 [info] Using git "2.45.2" from "git"
+2024-06-21 13:36:42.381 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-21 13:36:42.381 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.381 [info] > git rev-parse --show-toplevel [29ms]
+2024-06-21 13:36:42.381 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.402 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-21 13:36:42.402 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.418 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-21 13:36:42.419 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.433 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-21 13:36:42.433 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.454 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-21 13:36:42.454 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.471 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-21 13:36:42.471 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.731 [info] > git rev-parse --show-toplevel [17ms]
+2024-06-21 13:36:42.731 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:42.753 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-21 13:36:42.753 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:36:44.248 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-21 13:36:44.249 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:39:09.761 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-21 13:39:09.761 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+2024-06-21 13:39:13.629 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-21 13:39:13.629 [info] fatal: detected dubious ownership in repository at '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/home/thanush/data/Web Technology/WT Project/E-learning/e-learning'

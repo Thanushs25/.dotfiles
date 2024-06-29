@@ -1,0 +1,6 @@
+2024/06/27-11:49:00.989 441f Creating DB /home/thanush/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/06/27-11:49:00.993 441f Reusing MANIFEST /home/thanush/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-11:51:25.571 441f Level-0 table #5: started
+2024/06/27-11:51:25.576 441f Level-0 table #5: 158107 bytes OK
+2024/06/27-11:51:25.578 441f Delete type=0 #3
+2024/06/27-11:51:25.578 441f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

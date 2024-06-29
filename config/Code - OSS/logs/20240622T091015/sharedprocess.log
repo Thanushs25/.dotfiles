@@ -1,0 +1,68 @@
+2024-06-22 09:24:56.471 [info] Getting Manifest... tomi.xajssnippets
+2024-06-22 09:24:57.084 [info] Installing extension: tomi.xajssnippets vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:24:58.605 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-22 09:24:58.605 [info] Extension signature verification is not done: tomi.xajssnippets
+2024-06-22 09:24:58.629 [info] Extracted extension to file:///home/thanush/.vscode-oss/extensions/tomi.xajssnippets-1.2.0-universal: tomi.xajssnippets
+2024-06-22 09:24:58.634 [info] Renamed to /home/thanush/.vscode-oss/extensions/tomi.xajssnippets-1.2.0-universal
+2024-06-22 09:24:58.735 [info] Extension installed successfully: tomi.xajssnippets vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:24:58.743 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-22 09:25:07.037 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2024-06-22 09:25:07.399 [info] Installing extension: dsznajder.es7-react-js-snippets vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:25:33.730 [info] Getting Manifest... ritwickdey.liveserver
+2024-06-22 09:25:34.030 [info] Installing extension: ritwickdey.liveserver vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:25:38.225 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-22 09:25:38.226 [info] Extension signature verification is not done: ritwickdey.liveserver
+2024-06-22 09:25:42.053 [info] Extracted extension to file:///home/thanush/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal: ritwickdey.liveserver
+2024-06-22 09:25:42.066 [info] Renamed to /home/thanush/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2024-06-22 09:25:42.181 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-22 09:25:42.188 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:25:46.180 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-22 09:25:46.181 [info] Extension signature verification is not done: dsznajder.es7-react-js-snippets
+2024-06-22 09:25:46.533 [info] Extracted extension to file:///home/thanush/.vscode-oss/extensions/dsznajder.es7-react-js-snippets-4.4.3-universal: dsznajder.es7-react-js-snippets
+2024-06-22 09:25:46.545 [info] Renamed to /home/thanush/.vscode-oss/extensions/dsznajder.es7-react-js-snippets-4.4.3-universal
+2024-06-22 09:25:46.653 [info] Extension installed successfully: dsznajder.es7-react-js-snippets vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:25:46.654 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-22 09:29:52.080 [info] Getting Manifest... mongodb.mongodb-vscode
+2024-06-22 09:29:52.490 [info] Installing extension: mongodb.mongodb-vscode vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:30:54.092 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-22 09:30:54.093 [info] Extension signature verification is not done: mongodb.mongodb-vscode
+2024-06-22 09:30:54.566 [info] Extracted extension to file:///home/thanush/.vscode-oss/extensions/mongodb.mongodb-vscode-1.6.0-universal: mongodb.mongodb-vscode
+2024-06-22 09:30:54.575 [info] Renamed to /home/thanush/.vscode-oss/extensions/mongodb.mongodb-vscode-1.6.0-universal
+2024-06-22 09:30:54.677 [info] Extension installed successfully: mongodb.mongodb-vscode vscode-userdata:/home/thanush/.vscode-oss/extensions/extensions.json
+2024-06-22 09:30:54.681 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thanush/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
